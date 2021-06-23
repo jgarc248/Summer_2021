@@ -1,0 +1,3 @@
+/home/pi/Example/cmlrs2/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Example/cmlrs2/build/CMakeFiles/measure_dist.dir
+/home/pi/Example/cmlrs2/build/CMakeFiles/edit_cache.dir

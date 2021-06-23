@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3  -rdynamic CMakeFiles/example_walk.dir/example_walk.cpp.o  -o example_walk   -L/home/pi/Example/CMakeA1_1/lib  -Wl,-rpath,/home/pi/Example/CMakeA1_1/lib -pthread -lunitree_legged_sdk_arm32 -llcm 
